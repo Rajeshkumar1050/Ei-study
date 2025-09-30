@@ -4,15 +4,14 @@ This repository contains coursework and practice programs created by
 
 Rajesh K
 roll No: 226017 from the **Department of Artificial Intelligence and Data Science (AI & DS)**.  
+
 The repository includes implementations of **design patterns** and a **Java application** for organizing an astronaut’s daily schedule.
 
 ---
 
 ## 👤 Author
 
-- **Name**: Aruna
--
-  Rajesh K  
+- **Name**: Rajesh K  
 - **Roll No**: 226017 
 - **Department**: AI and DS  
 
